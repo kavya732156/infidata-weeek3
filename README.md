@@ -5,3 +5,7 @@ Day 1: (13-09-2021) -Ml only works on numbers. If it contains string value we ca
 
 Day 2: (15-09-2021) -Logistic regresssionused implementation and used insurance_data1.csv file 
 
+Day 3: (17-09-2021)- Multiple logistic Regression.
+
+Day 4 : 18-09-2021 -  Polynomial Regression .
+
